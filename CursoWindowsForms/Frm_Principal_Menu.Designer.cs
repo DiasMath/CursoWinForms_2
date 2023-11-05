@@ -67,7 +67,7 @@
             // 
             this.windowsToolStripMenuItem.Name = "windowsToolStripMenuItem";
             this.windowsToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
-            this.windowsToolStripMenuItem.Text = "Windows";
+            this.windowsToolStripMenuItem.Text = "&Windows";
             // 
             // novoToolStripMenuItem
             // 
