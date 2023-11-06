@@ -24,7 +24,6 @@ namespace CursoWindowsForms
             f.Show();
         }
 
-
         private void helloWorldToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Frm_HelloWorld f = new Frm_HelloWorld();
