@@ -33,3 +33,4 @@ C:\WindowsForms\Curso WinForms_2\CursoWindowsForms\CursoWindowsForms\bin\Debug\C
 C:\WindowsForms\Curso WinForms_2\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWinFormsBiblioteca.pdb
 C:\WindowsForms\Curso WinForms_2\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
 C:\WindowsForms\Curso WinForms_2\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+C:\WindowsForms\Curso WinForms_2\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
